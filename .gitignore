@@ -2,3 +2,4 @@ venv
 *.ini
 *.csv
 !variable_list.csv
+*.pyc
